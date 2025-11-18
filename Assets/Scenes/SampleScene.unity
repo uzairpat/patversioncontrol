@@ -123,7 +123,11 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &571102801
+=======
+--- !u!1 &341642363
+>>>>>>> Stashed changes
 =======
 --- !u!1 &341642363
 >>>>>>> Stashed changes
@@ -135,15 +139,21 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - component: {fileID: 571102805}
   - component: {fileID: 571102804}
   - component: {fileID: 571102803}
   - component: {fileID: 571102802}
 =======
+=======
+>>>>>>> Stashed changes
   - component: {fileID: 341642367}
   - component: {fileID: 341642366}
   - component: {fileID: 341642365}
   - component: {fileID: 341642364}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Sphere
@@ -153,7 +163,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!135 &571102802
+=======
+--- !u!135 &341642364
+>>>>>>> Stashed changes
 =======
 --- !u!135 &341642364
 >>>>>>> Stashed changes
@@ -163,7 +177,11 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 571102801}
+=======
+  m_GameObject: {fileID: 341642363}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 341642363}
 >>>>>>> Stashed changes
@@ -182,7 +200,11 @@ SphereCollider:
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!23 &571102803
+=======
+--- !u!23 &341642365
+>>>>>>> Stashed changes
 =======
 --- !u!23 &341642365
 >>>>>>> Stashed changes
@@ -192,7 +214,11 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 571102801}
+=======
+  m_GameObject: {fileID: 341642363}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 341642363}
 >>>>>>> Stashed changes
@@ -232,7 +258,11 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!33 &571102804
+=======
+--- !u!33 &341642366
+>>>>>>> Stashed changes
 =======
 --- !u!33 &341642366
 >>>>>>> Stashed changes
@@ -242,9 +272,15 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 571102801}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &571102805
+=======
+  m_GameObject: {fileID: 341642363}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &341642367
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 341642363}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
@@ -256,11 +292,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 571102801}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.46, y: 0, z: 0}
 =======
+=======
+>>>>>>> Stashed changes
   m_GameObject: {fileID: 341642363}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -372,6 +411,9 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -565,7 +607,11 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &2027021818
+=======
+--- !u!1 &1435050870
+>>>>>>> Stashed changes
 =======
 --- !u!1 &1435050870
 >>>>>>> Stashed changes
@@ -577,15 +623,21 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - component: {fileID: 2027021822}
   - component: {fileID: 2027021821}
   - component: {fileID: 2027021820}
   - component: {fileID: 2027021819}
 =======
+=======
+>>>>>>> Stashed changes
   - component: {fileID: 1435050874}
   - component: {fileID: 1435050873}
   - component: {fileID: 1435050872}
   - component: {fileID: 1435050871}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Cube
@@ -595,7 +647,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!65 &2027021819
+=======
+--- !u!65 &1435050871
+>>>>>>> Stashed changes
 =======
 --- !u!65 &1435050871
 >>>>>>> Stashed changes
@@ -605,7 +661,11 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 2027021818}
+=======
+  m_GameObject: {fileID: 1435050870}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1435050870}
 >>>>>>> Stashed changes
@@ -624,7 +684,11 @@ BoxCollider:
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!23 &2027021820
+=======
+--- !u!23 &1435050872
+>>>>>>> Stashed changes
 =======
 --- !u!23 &1435050872
 >>>>>>> Stashed changes
@@ -634,7 +698,11 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 2027021818}
+=======
+  m_GameObject: {fileID: 1435050870}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1435050870}
 >>>>>>> Stashed changes
@@ -652,7 +720,11 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+=======
+  - {fileID: 2100000, guid: 913c85f7fdb9d4f53b2108214acbdf98, type: 2}
+>>>>>>> Stashed changes
 =======
   - {fileID: 2100000, guid: 913c85f7fdb9d4f53b2108214acbdf98, type: 2}
 >>>>>>> Stashed changes
@@ -678,7 +750,11 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!33 &2027021821
+=======
+--- !u!33 &1435050873
+>>>>>>> Stashed changes
 =======
 --- !u!33 &1435050873
 >>>>>>> Stashed changes
@@ -688,9 +764,15 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 2027021818}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &2027021822
+=======
+  m_GameObject: {fileID: 1435050870}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1435050874
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1435050870}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
@@ -702,15 +784,21 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 2027021818}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
 =======
+=======
+>>>>>>> Stashed changes
   m_GameObject: {fileID: 1435050870}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -4.78}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -724,8 +812,14 @@ SceneRoots:
   - {fileID: 963194228}
   - {fileID: 705507995}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 2027021822}
   - {fileID: 571102805}
+=======
+  - {fileID: 1435050874}
+  - {fileID: 341642367}
+  - {fileID: 644702745}
+>>>>>>> Stashed changes
 =======
   - {fileID: 1435050874}
   - {fileID: 341642367}
